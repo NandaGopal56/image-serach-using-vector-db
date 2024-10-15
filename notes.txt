@@ -1,0 +1,1 @@
+https://discuss.huggingface.co/t/how-to-combine-image-and-text-embedding-for-product-similarity/47761
