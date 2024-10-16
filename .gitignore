@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 chroma/
+model_cache_dir
 
 # C extensions
 *.so
